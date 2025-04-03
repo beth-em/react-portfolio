@@ -24,7 +24,7 @@ After making your desired changes and running 'npm run dev' you will be able to:
 This project is licensed under the MIT license
 
 ## Links
-GitHub: 
+GitHub: https://github.com/beth-em/react-portfolio.git
 
 # React + Vite
 
